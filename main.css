@@ -1,0 +1,36 @@
+.boddy{
+    background-image: url("bgi.jpg");
+    /*bgi = background-image, detalhe: essa imagem foi eu que tirei em 2021 no memso dia que a foto com nome celso*/
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius:15px ;
+    margin: 0px;
+    font-family:Arial;
+    
+}
+
+.headerr{
+    align-items: center; 
+    background-color:#075eb4f6;
+    border-radius:15px ;
+    text-align: center;
+    top: 0;
+    width: 99%;
+    margin-right: 8px;
+    margin-top: 8px;
+    position: fixed;
+    font-family:Arial;
+}
+
+.mainn{
+    
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius:15px ;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-around;
+    text-align: center;
+    font-family:Arial;
+}
